@@ -12,7 +12,7 @@ public class PlaySteps {
 
     @Given("^Play a learning platform$")
     public void i_have_a_play() throws Throwable {
-        //System.out.println("This will print about play");
+        //System.out.println("This will printabout play");
         
     }
 
